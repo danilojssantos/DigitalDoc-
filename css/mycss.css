@@ -1,0 +1,12 @@
+* {margin:0; padding:0}
+
+body {
+	background:#FFFFFF;
+}
+#topo { background-color:#ffffff; width:1349px; height:161px; margin:auto; }
+#topo1 {width:462px; background-color:#FFFFFF; height:161px; margin:auto; background:url(../img/logo.png) no-repeat; }
+
+#menu { width:1349px; height:45px; background-color:#337ab7; margin:auto;  }
+
+.conteudo{width:1349px; min-height:700px; background:#fff;}
+.panel-footer{height:50px; background:#337ab7; color:#fff; padding:10px;}
